@@ -1,5 +1,7 @@
 # 🍮 Royal Library of the Pudding Kingdom
 
+## *Let there be no drought of laughter, nor famine of pudding.*
+
 **Greetings, travelers.**  
 You have arrived at the outer chamber of the Sillyverse.
 
