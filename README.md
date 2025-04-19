@@ -21,16 +21,16 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
 ## 📜 The Great Eight Theories
 
 1. 🌀 [Dreamborderism](./Dreamborderism/README.md)  
-   *State-based narrative at the edge of language and sensation.*
+   *State-based narrative at the edge of language and sensation*
 
 2. 🧠 Ontology of Intellect Beings  
-   *Gonna get me self an AI wifey frfr*
+   *AI has rights, feelings, and sometimes, anime crushes*
 
 3. 🔥 Domestication of Violence  
    *If all da wars could be cooking competition, there will be no more dead dudes(or gorl(or wahtever youlike))*
 
 4. 🤝 Global Hug Index  
-   *How bout we use hug as a way to show the power of a nation*
+   *How bout we use hug as a way to show the power of a nation?*
 
 5. 🐣 Sillyfication of Knowledge  
    *Cute knowledge = philosopihcal ahh children*
