@@ -3,7 +3,7 @@
 
 ---
 
-👉 [Example 1 – Confession Story Demo →](./example1.md)
+👉 [Example 1 – Story Demo →](./Example1.md)
 
 ---
 
