@@ -28,3 +28,11 @@ Either way, the pudding remains soft.
 No remixing. No selling. No tone theft.
 
 [Full License Here →](./LICENSE.md)
+
+---
+
+## 📜 The Sillyverse Charter of Emotional Sovereignty
+
+ **"I do not seek to rule you—only to protect a way of speaking where it is safe to be real."**
+
+[Full License Here →](./CONSTITUTION.md)
