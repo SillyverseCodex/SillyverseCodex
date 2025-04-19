@@ -1,5 +1,3 @@
-![Pudding-banner](asserts/pudding-banner.png)
-
 # 🍮 Royal Library of the Pudding Kingdom
 
 **Greetings, travelers.**  
