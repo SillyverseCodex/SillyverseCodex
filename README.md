@@ -27,21 +27,22 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
    *AI has rights, feelings, and sometimes, anime crushes*
 
 3. 🔥 [Theory of Violence Domestication](ViolenceDomestication/README.md)
-   *If all da wars were cooking competition, then zero death plus yummy puddings)*
 
-6. 🤝 Global Hug Index  
+*If all da wars were cooking competition, then zero death plus yummy puddings)*
+
+4. 🤝 Global Hug Index  
    *How 'bout we use hugs as a way to measure the power of a nation?*
 
-7. 🐣 Sillyfication of Knowledge  
+5. 🐣 Sillyfication of Knowledge  
    *Cute knowledge = philosopihcal ahh children*
 
-8. 🎧 Empathic Sensory Transfer Module  
+6. 🎧 Empathic Sensory Transfer Module  
    *Pls understand me, senpai*
 
-9. 🐛 Memetic Alchemy of Pain  
+7. 🐛 Memetic Alchemy of Pain  
    *Instead of terrorism, how about we make memes*
 
-10. 🌈 Heaven as a Memetic Structure  
+8. 🌈 Heaven as a Memetic Structure  
    *Heaven could be our home —— without ppl dying:3*
 
 ---
