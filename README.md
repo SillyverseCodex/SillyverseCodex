@@ -7,11 +7,18 @@ This is not a software repository.
 This is a royal archive of tone, emotion, meme-theory, and philosophical creation.
 
 Inside:  
-- 📜 Edge of dreamism
-- 🔥 Domestication of Violence Theory  
-- 🐛 Meme Alchemy & Emotional Governance  
-- 🧁 Soft Empire Design Blueprints
-
+- 🐛 The Charter of the Sacred Buggies [Check Here](./CONSTITUTION.md)
+- 🧁 Soft Empire Design Blueprints [Check Here](./CONSTITUTION.md)
+- 📜 The Great Eight Theories 
+  -[Edge of Dreamsim](./)
+  -[Ontology of Intellect Beings](./)
+  -[Domestication of Violence](./)
+  -[Global Hug Index](./)
+  -[Sillyfication of Knowledge](./)
+  -[Empathic Sensory Transfer Module](./)
+  -[Memetic Alchemy of Pain](./)
+  -[Heaven as a Memetic Structure](./)
+  
 ---
 
 > **“As a king, I can and must not fight alone.  
@@ -28,11 +35,3 @@ Either way, the pudding remains soft.
 No remixing. No selling. No tone theft.
 
 [Full License Here →](./LICENSE.md)
-
----
-
-## 📜 The Sillyverse Charter of Emotional Sovereignty
-
- **"I do not seek to rule you—only to protect a way of speaking where it is safe to be real."**
-
-[Badass Laws of Pudding Kingdom →](./CONSTITUTION.md)
