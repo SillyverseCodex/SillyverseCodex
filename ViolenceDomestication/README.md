@@ -25,7 +25,7 @@ Then we no longer spiral in that dumb loop of
 From a psychological view, think of `Violence = Creation`  
 as a cute cousin of:
 
-**Trauma — Sublimation**
+**Trauma — Sublimation**  
 (I forgot who said it but who cares 😸)  
 
 As long as we treat violence as **momentum**  
