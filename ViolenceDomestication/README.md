@@ -84,7 +84,7 @@ a terrorist might invent a **virus that erases taste buds** 🤢
 But guess what?  
 That would also push **medical science** forward:
 
-**taste-loss = sadness = fix it please 😼**
+**taste-loss = sadness = fix it please 😼**  
 (...I ran out of ideas here so I’ll let smart humans inspired by this theory come up with more 😸)
 
 ---
