@@ -61,4 +61,4 @@ a handshake between human consciousness
 and the linguistic edge of the universe.
 
 ---
-[Read Example *This Is Just a Story About Some Border, I Swear*](./)
+[Read Example *This Is Just a Story About Some Border, I Swear*](./Dreamborderism/Example#1)
