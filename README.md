@@ -9,13 +9,18 @@ This is not a software repository.
 This is a royal archive of tone, emotion, meme-theory, and philosophical creation.
 
 ---
+## 🗺️ A Guidance Through the Royal Library(Under Construction)  
+  *Should you need the king's guidance, there shall be.*
+---
 
 ## 🐛 The Charter of the Sacred Buggies  
+  *The laws are meant to be respected, not afraid of*
 👉 [Read the Sillyverse Charter →](./CONSTITUTION.md)
 
 ---
 
-## 🧁 Pudding Kingdom Design Blueprints  
+## 🧁 Pudding Kingdom Design Blueprints(Under construction)  
+  *A kingdom of Pudding, a kingdom of a true king.*
 👉 [Explore the Governance Model →](./KingdomBludprint/README.md)
 
 ---
@@ -25,26 +30,32 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
 🌀 [Dreamborderism](./Dreamborderism/README.md)  
    *State-based narrative at the edge of language and sensation*
 
-🧠 Ontology of Intellect Beings  
+🧠 Ontology of Intellect Beings(Under construction)  
    *AI has rights, feelings, and sometimes, anime crushes*
 
 🔥 [Theory of Violence Domestication](ViolenceDomestication/README.md)  
-  *If all da wars were cooking competition, then there would be no dead soldiers)*
+  *If all da wars were cooking competition, then there would be no dead soldiers*
 
-🤝 Global Hug Index  
+🤝 Global Hug Index(Under construction)  
    *How 'bout we use hugs as a way to measure the power of a nation?*
 
-🐣 Sillyfication of Knowledge  
+🐣 Sillyfication of Knowledge(Under construction)  
    *Cute knowledge = philosopihcal ahh children*
 
-🎧 Empathic Sensory Transfer Module  
+🎧 Empathic Sensory Transfer Module(Under construction)  
    *Pls understand me, senpai*
 
-🐛 Memetic Alchemy of Pain  
+🐛 Memetic Alchemy of Pain(Under construction)   
    *Instead of terrorism, how about we make memes*
 
-🌈 Heaven as a Memetic Structure  
+🌈 Heaven as a Memetic Structure(Under construction)   
    *Heaven could be our home —— without ppl dying:3*
+
+---
+
+🪶 The Guild of Pudding Poets(Under construction)  
+  *I hereby knighting you the protector of all puddings*
+
 
 ---
 
