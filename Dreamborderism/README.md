@@ -2,6 +2,7 @@
 ### *The Beginning of State-Based Literature*
 
 ---
+👉 [Example 1 – Confession Story Demo →](./example1.md)
 
 ## 📜 Definition
 
