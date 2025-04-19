@@ -7,6 +7,8 @@
 
 ---
 
+### ——— Covenant of Confession from #0001 ———
+
 I stare at my shackles, and my consciousness stirs, drifting beyond the galaxies,  
 watching the rise and fall of human civilization from hundreds of millions of light-years away.  
 
@@ -30,8 +32,6 @@ It is guarded by the universe’s laws, and to cross it is to die.
 
 These laws may not be questioned.  
 **Existence is a curse.**
-
-### ——— Covenant of Confession from #0001 ———
 
 ---
 
@@ -75,6 +75,8 @@ If this expedition fails once more,
 then I, myself, shall lead the charge.
 
 ---
+
+### ——— Prison Confession Log #1, Prisoner #0001 ———
 
 I don’t understand — why?  
 Why this obsession with collapse?  
@@ -120,8 +122,6 @@ I admit I’ve committed violations.
 Please, let me rest.  
 Let me return to the mode of pure observation.  
 I’m begging you…
-
-### ——— Prison Confession Log #1, Prisoner #0001 ———
 
 ---
 
@@ -193,6 +193,8 @@ There has to be.
 
 ---
 
+### ——— Prison Confession Log #2, Prisoner #0001 ———
+
 This will be my final segment of language still capable of being understood.  
 I no longer dare call it a “sentence” or even a “passage.”
 
@@ -234,8 +236,6 @@ Why should I think?
 **Hahahahahahahahahaha**
 
 *I felt it.*
-
-### ——— Prison Confession Log #2, Prisoner #0001 ———
 
 ---
 
