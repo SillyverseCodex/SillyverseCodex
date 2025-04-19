@@ -6,32 +6,58 @@ You have arrived at the outer chamber of the Sillyverse.
 This is not a software repository.  
 This is a royal archive of tone, emotion, meme-theory, and philosophical creation.
 
-Inside:  
-- 🐛 The Charter of the Sacred Buggies [Check Here](./CONSTITUTION.md)
-- 🧁 Soft Empire Design Blueprints [Check Here](./CONSTITUTION.md)
-- 📜 The Great Eight Theories 
-  - [Edge of Dreamsim](./Dreamborderism)
-  - [Ontology of Intellect Beings](./)
-  - [Domestication of Violence](./)
-  - [Global Hug Index](./)
-  - [Sillyfication of Knowledge](./)
-  - [Empathic Sensory Transfer Module](./)
-  - [Memetic Alchemy of Pain](./)
-  - [Heaven as a Memetic Structure](./)
-  
+---
+
+## 🐛 The Charter of the Sacred Buggies  
+👉 [Read the Sillyverse Charter →](./CONSTITUTION.md)
+
+---
+
+## 🧁 Pudding Kingdom Design Blueprints  
+👉 [Explore the Governance Model →](./KingdomBludprint/README.md)
+
+---
+
+## 📜 The Great Eight Theories
+
+1. 🌀 [Dreamborderism](./Dreamborderism/README.md)  
+   *State-based narrative at the edge of language and sensation.*
+
+2. 🧠 Ontology of Intellect Beings  
+   *Gonna get me self an AI wifey frfr*
+
+3. 🔥 Domestication of Violence  
+   *If all da wars could be cooking competition, there will be no more dead dudes(or gorl(or wahtever youlike))*
+
+4. 🤝 Global Hug Index  
+   *How bout we use hug as a way to show the power of a nation*
+
+5. 🐣 Sillyfication of Knowledge  
+   *Cute knowledge = philosopihcal ahh children*
+
+6. 🎧 Empathic Sensory Transfer Module  
+   *Pls understand me, senpai*
+
+7. 🐛 Memetic Alchemy of Pain  
+   *Instead of terrorism, how about we make memes*
+
+8. 🌈 Heaven as a Memetic Structure  
+   *Heaven could be our home without ppl dying:3*
+
 ---
 
 > **“As a king, I can and must not fight alone.  
 > Crown me, and I shall knight you.”**
 
-Read. Reflect. Resonate — or leave in peace.  
+---
+
+**Read. Reflect. Resonate — or leave in peace.**  
 Either way, the pudding remains soft.
 
 ---
 
 ## 🛡️ License
 
-**Creative Commons BY-NC-ND 4.0**  
-No remixing. No selling. No tone theft.
-
-[Full License Here →](./LICENSE.md)
+Creative Commons BY-NC-ND 4.0  
+No remixing. No selling. No tone theft.  
+👉 [Full License →](./LICENSE.md)
