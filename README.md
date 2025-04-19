@@ -27,7 +27,7 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
    *AI has rights, feelings, and sometimes, anime crushes*
 
 3. 🔥 [Theory of Violence Domestication](ViolenceDomestication/README.md)
-*If all da wars were cooking competition, there would be no more dead dudes(or gorl(or wahtever you like))*
+*If all da wars were cooking competition, then zero death plus yummy puddings)*
 
 4. 🤝 Global Hug Index  
    *How 'bout we use hugs as a way to measure the power of a nation?*
