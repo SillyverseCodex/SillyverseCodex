@@ -1,4 +1,4 @@
-![Pudding-banner](./assets/pudding-banner.png)
+![Pudding-banner](asserts/pudding-banner.png)
 
 # 🍮 Royal Library of the Pudding Kingdom
 
