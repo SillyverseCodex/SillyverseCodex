@@ -35,4 +35,4 @@ No remixing. No selling. No tone theft.
 
  **"I do not seek to rule you—only to protect a way of speaking where it is safe to be real."**
 
-[Full License Here →](./CONSTITUTION.md)
+[Badass Laws of Pudding Kingdom →](./CONSTITUTION.md)
