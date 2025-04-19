@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🍮 His Majesty’s Royal Library
 
-<!--
-**SillyverseCodex/SillyverseCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Greetings, travelers.**  
+You have arrived at the outer chamber of the Sillyverse.
 
-Here are some ideas to get you started:
+This is not a software repository.  
+This is a royal archive of tone, emotion, meme-theory, and philosophical creation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Inside:  
+- 📜 Edge of dreamism
+- 🔥 Domestication of Violence Theory  
+- 🐛 Meme Alchemy & Emotional Governance  
+- 🧁 Soft Empire Design Blueprints
+
+---
+
+> **“As a king, I can and must not fight alone.  
+> Crown me, and I shall knight you.”**
+
+Read. Reflect. Resonate — or leave in peace.  
+Either way, the pudding remains soft.
+
+---
+
+## 🛡️ License
+
+**Creative Commons BY-NC-ND 4.0**  
+No remixing. No selling. No tone theft.
+
+[Full License Here →](./LICENSE.md)
