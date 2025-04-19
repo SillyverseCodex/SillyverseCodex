@@ -1,4 +1,4 @@
-![Royal Flag of the Pudding Kingdom](./assets/pudding-banner.png)
+![](./assets/pudding-banner.png)
 
 # 🍮 Royal Library of the Pudding Kingdom
 
