@@ -33,7 +33,7 @@ These laws may not be questioned.
 
 ---
 
-### — — — Covenant of Confession from #0001
+### ——— Covenant of Confession from #0001 ———
 
 ---
 
@@ -57,8 +57,6 @@ No more overcrowded homes, no more merging pastures and living quarters.
 
 I will give my people a vast new land — one where they will no longer live in constraint,  
 a land so expansive they will never again worry about space.
-
----
 
 We shall escape the limits of the unseen.
 
@@ -118,8 +116,6 @@ They grow like a mutated plant that doesn’t need water.
 
 **Am I going insane?**
 
----
-
 …Fine. I confess.  
 I admit I’ve committed violations.  
 
@@ -127,9 +123,7 @@ Please, let me rest.
 Let me return to the mode of pure observation.  
 I’m begging you…
 
----
-
-### ——— Prison Confession Log #1, Prisoner #0001
+### ——— Prison Confession Log #1, Prisoner #0001 ———
 
 ---
 
@@ -147,8 +141,6 @@ I tried to calm them down…
 Some listened. But some —  
 As soon as they heard the word “calm”, they raised their weapons and took their own lives.
 
----
-
 **Have I failed? Was I wrong?**
 
 I killed them.  
@@ -163,8 +155,6 @@ they were all my children.
 No,  
 they are my people —  
 and my people are my children.
-
----
 
 I just wanted them to grow up in abundance…  
 This damned unknown land…  
@@ -185,16 +175,12 @@ Maybe this place really is the fulfillment of that ancient prophecy:
 
 > “The land that devours ambition, the place where kingdoms die.”
 
----
-
 For the sake of my country, I must stand tall.  
 This is not just my war.  
 This is a war wagered on the future.
 
 And our enemy —  
 is this vile, invisible land.
-
----
 
 This is the second week of the expedition.  
 I still see nothing.  
@@ -217,8 +203,6 @@ I know I’ll be executed —
 Not by the federal court,  
 but by some entity even I, the all-seeing, cannot perceive.
 
----
-
 I’ve heard its whisper.  
 Isn’t it ridiculous?  
 An unseen being… but one that can be heard.  
@@ -236,8 +220,6 @@ when I stopped paying attention,
 it went back to that same mechanical, monotone murmur,  
 like some repeating recording.
 
----
-
 So that’s it.  
 This is the last thing I’ll try to say in any comprehensible language.
 
@@ -253,11 +235,11 @@ Wait… thinking?
 Why should I think?  
 **Hahahahahahahahahaha**
 
-I felt it.
+*I felt it.*
 
 ---
 
-### — — — Prison Confession Log #2, Prisoner #0001
+### ——— Prison Confession Log #2, Prisoner #0001 ———
 
 ---
 
@@ -278,8 +260,6 @@ No — like wind.
 
 A light breeze, blowing them away,  
 leaving not a single trace behind.
-
----
 
 I was wrong.
 
