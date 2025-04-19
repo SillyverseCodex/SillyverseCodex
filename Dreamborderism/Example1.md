@@ -31,8 +31,6 @@ It is guarded by the universe’s laws, and to cross it is to die.
 These laws may not be questioned.  
 **Existence is a curse.**
 
----
-
 ### ——— Covenant of Confession from #0001 ———
 
 ---
@@ -236,8 +234,6 @@ Why should I think?
 **Hahahahahahahahahaha**
 
 *I felt it.*
-
----
 
 ### ——— Prison Confession Log #2, Prisoner #0001 ———
 
