@@ -27,10 +27,10 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
    *AI has rights, feelings, and sometimes, anime crushes*
 
 3. 🔥 Domestication of Violence  
-   *If all da wars could be cooking competition, there will be no more dead dudes(or gorl(or wahtever youlike))*
+   *If all da wars were cooking competition, there would be no more dead dudes(or gorl(or wahtever you like))*
 
 4. 🤝 Global Hug Index  
-   *How bout we use hug as a way to show the power of a nation?*
+   *How 'bout we use hugs as a way to measure the power of a nation?*
 
 5. 🐣 Sillyfication of Knowledge  
    *Cute knowledge = philosopihcal ahh children*
@@ -42,12 +42,17 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
    *Instead of terrorism, how about we make memes*
 
 8. 🌈 Heaven as a Memetic Structure  
-   *Heaven could be our home without ppl dying:3*
+   *Heaven could be our home —— without ppl dying:3*
 
 ---
 
 > **“As a king, I can and must not fight alone.  
 > Crown me, and I shall knight you.”**
+
+Thus, I summon thee, my bravest knights
+✉️ *The Invitation from His Majesty (me :3)* 
+
+👉 [Ivitation Letter →](./INVITATION.md)
 
 ---
 
