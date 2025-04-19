@@ -17,8 +17,6 @@ The body, to me, is but a prison.
 The brain is a cage of thought, and the unconscious pulls my strings like a puppeteer —  
 an awful incarceration.
 
----
-
 If I could transcend both matter and spirit, existence and nonexistence,  
 while still possessing a body,  
 then I am the wicked rebel — because I disobey the laws of physics,  
