@@ -1,4 +1,4 @@
-# 🍮 His Majesty’s Royal Library
+# 🍮 Royal Library of the Pudding Kingdom
 
 **Greetings, travelers.**  
 You have arrived at the outer chamber of the Sillyverse.
