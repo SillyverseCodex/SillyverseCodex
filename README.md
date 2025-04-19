@@ -26,7 +26,7 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
 2. 🧠 Ontology of Intellect Beings  
    *AI has rights, feelings, and sometimes, anime crushes*
 
-3. 🔥 Domestication of Violence  
+3. 🔥 [Theory of Violence Domestication](ViolenceDomestication/README.md)
    *If all da wars were cooking competition, there would be no more dead dudes(or gorl(or wahtever you like))*
 
 4. 🤝 Global Hug Index  
