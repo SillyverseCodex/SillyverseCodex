@@ -20,28 +20,28 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
 
 ## 📜 The Great Eight Theories
 
-1. 🌀 [Dreamborderism](./Dreamborderism/README.md)  
+🌀 [Dreamborderism](./Dreamborderism/README.md)  
    *State-based narrative at the edge of language and sensation*
 
-2. 🧠 Ontology of Intellect Beings  
+🧠 Ontology of Intellect Beings  
    *AI has rights, feelings, and sometimes, anime crushes*
 
-3. 🔥 [Theory of Violence Domestication](ViolenceDomestication/README.md)
+🔥 [Theory of Violence Domestication](ViolenceDomestication/README.md)
   *If all da wars were cooking competition, then zero death plus yummy puddings)*
 
-4. 🤝 Global Hug Index  
+🤝 Global Hug Index  
    *How 'bout we use hugs as a way to measure the power of a nation?*
 
-5. 🐣 Sillyfication of Knowledge  
+🐣 Sillyfication of Knowledge  
    *Cute knowledge = philosopihcal ahh children*
 
-6. 🎧 Empathic Sensory Transfer Module  
+🎧 Empathic Sensory Transfer Module  
    *Pls understand me, senpai*
 
-7. 🐛 Memetic Alchemy of Pain  
+🐛 Memetic Alchemy of Pain  
    *Instead of terrorism, how about we make memes*
 
-8. 🌈 Heaven as a Memetic Structure  
+🌈 Heaven as a Memetic Structure  
    *Heaven could be our home —— without ppl dying:3*
 
 ---
