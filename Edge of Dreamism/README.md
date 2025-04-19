@@ -1,4 +1,4 @@
-# 🛌 Edge of Dreamism  
+# 🌙 Edge of Dreamism  
 ### *The Threshold of Narrative and Emotion*
 
 ---
