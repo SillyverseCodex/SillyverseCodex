@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./assets/pudding-banner.png" alt="Royal Banner of the Sillyverse" width="800"/>
+</p>
+
+# 🍮 Royal Library of the Pudding Kingdom
+**Greetings, travelers.**  
+You have arrived at the outer chamber of the Sillyverse.
+
+
 # 🍮 Royal Library of the Pudding Kingdom
 
 **Greetings, travelers.**  
