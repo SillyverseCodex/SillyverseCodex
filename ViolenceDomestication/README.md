@@ -4,6 +4,8 @@
 
 ---
 
+---
+
 ## 🎯 Claim:
 
 Violence is not an **outcome**, but a **momentum**.  
