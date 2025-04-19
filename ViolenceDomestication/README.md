@@ -3,7 +3,7 @@
 > *If wars were all cooking competitions, this world would never suffer casualties again.*
 
 ---
-
+👉 [Example 1 – Story Demo →](./example1VD.mb)
 ---
 
 ## 🎯 Claim:
