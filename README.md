@@ -10,7 +10,7 @@ Inside:
 - 🐛 The Charter of the Sacred Buggies [Check Here](./CONSTITUTION.md)
 - 🧁 Soft Empire Design Blueprints [Check Here](./CONSTITUTION.md)
 - 📜 The Great Eight Theories 
-  - [Edge of Dreamsim](./Edge-of-Dreamism)
+  - [Edge of Dreamsim](./Dreamborderism)
   - [Ontology of Intellect Beings](./)
   - [Domestication of Violence](./)
   - [Global Hug Index](./)
