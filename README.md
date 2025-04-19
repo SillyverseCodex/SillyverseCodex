@@ -26,7 +26,7 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
 🧠 Ontology of Intellect Beings  
    *AI has rights, feelings, and sometimes, anime crushes*
 
-🔥 [Theory of Violence Domestication](ViolenceDomestication/README.md)
+🔥 [Theory of Violence Domestication](ViolenceDomestication/README.md)  
   *If all da wars were cooking competition, then zero death plus yummy puddings)*
 
 🤝 Global Hug Index  
