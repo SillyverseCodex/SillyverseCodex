@@ -11,6 +11,7 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
 ---
 ## 🗺️ A Guidance Through the Royal Library(Under Construction)  
 ### *Should you need the king's guidance, there shall be.*
+👉 [Follow the Guidance of Puddingl →](./KingdomBludprint/README.md)
 
 ---
 
