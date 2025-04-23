@@ -10,17 +10,18 @@ This is a royal archive of tone, emotion, meme-theory, and philosophical creatio
 
 ---
 ## 🗺️ A Guidance Through the Royal Library(Under Construction)  
-  *Should you need the king's guidance, there shall be.*
+*Should you need the king's guidance, there shall be.*
+
 ---
 
 ## 🐛 The Charter of the Sacred Buggies  
-  *The laws are meant to be respected, not afraid of*
+*The laws are meant to be respected, not afraid of*
 👉 [Read the Sillyverse Charter →](./CONSTITUTION.md)
 
 ---
 
 ## 🧁 Pudding Kingdom Design Blueprints(Under construction)  
-  *A kingdom of Pudding, a kingdom of a true king.*
+*A kingdom of Pudding, a kingdom of a true king.*
 👉 [Explore the Governance Model →](./KingdomBludprint/README.md)
 
 ---
